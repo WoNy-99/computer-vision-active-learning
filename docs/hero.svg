@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Fine-Grained Image Classification</title><desc id="desc">ResNet18 and ConvNeXt comparison project banner</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#091d27"/><stop offset=".55" stop-color="#164554"/><stop offset="1" stop-color="#2d8277"/></linearGradient><linearGradient id="heat" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#46e7b0"/><stop offset=".55" stop-color="#ffd86b"/><stop offset="1" stop-color="#ff6b6b"/></linearGradient></defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="1090" cy="60" r="150" fill="#fff" opacity=".05"/><circle cx="900" cy="360" r="200" fill="#48e7b0" opacity=".07"/>
+  <g transform="translate(70 58)" font-family="Segoe UI, Arial, sans-serif">
+    <text x="0" y="58" fill="#ffffff" font-size="42" font-weight="800">Fine-Grained Image Classification</text>
+    <text x="2" y="107" fill="#cce9e8" font-size="24">ResNet18 · ConvNeXt · Grad-CAM comparison</text>
+    <rect x="0" y="147" width="420" height="48" rx="24" fill="#ffffff" opacity=".14"/>
+    <text x="27" y="179" fill="#ffffff" font-size="20" font-weight="700">COMPUTER VISION COURSE PROJECT</text>
+  </g>
+  <g transform="translate(760 55)">
+    <rect x="0" y="0" width="320" height="240" rx="32" fill="#fff" opacity=".12"/>
+    <rect x="38" y="36" width="152" height="152" rx="22" fill="#d8f3ee"/>
+    <path d="M72 157c9-49 36-88 85-84-18 19-17 37 5 55-22-2-39 8-50 29z" fill="#184d58"/>
+    <circle cx="145" cy="88" r="7" fill="#ffd86b"/>
+    <g fill="url(#heat)" opacity=".85"><circle cx="110" cy="112" r="42"/><circle cx="151" cy="137" r="31"/></g>
+    <g transform="translate(222 44)" fill="#dff7f3"><rect x="0" y="0" width="60" height="22" rx="7"/><rect x="0" y="37" width="42" height="22" rx="7"/><rect x="0" y="74" width="72" height="22" rx="7"/><rect x="0" y="111" width="50" height="22" rx="7"/></g>
+    <path d="M193 112h22" stroke="#59e7b5" stroke-width="6" stroke-linecap="round"/>
+  </g>
+</svg>

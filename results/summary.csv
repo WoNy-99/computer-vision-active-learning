@@ -1,0 +1,4 @@
+model,test_loss,test_accuracy,batch_size,epochs,learning_rate,optimizer
+ResNet18,0.3349,92.6174,,,,
+ConvNeXt,0.2320,96.6443,8,30,0.0001,AdamW
+
